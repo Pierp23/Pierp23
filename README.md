@@ -6,7 +6,7 @@ sviluppo che mi permettessero di ideare, creare e implementare un prodotto da ze
 
 🌱 Attualmente sto approfondendo Javascript e Vue per il frontend, mentre PHP e Laravel per il backend. 
 <br>
-📫 Per restare in contatto cercami su LinkedIn!
+📫 Per restare in contatto cercami su <a href="www.linkedin.com/in/pierpaolo-de-rosas">LinkedIn</a>!
 
 
 
