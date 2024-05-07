@@ -6,7 +6,7 @@ sviluppo che mi permettessero di ideare, creare e implementare un prodotto da ze
 
 🌱 Attualmente sto approfondendo PHP, Laravel e Filament. 
 <br>
-📫 Per restare in contatto cercami su <a href="www.linkedin.com/in/pierpaolo-de-rosas">LinkedIn</a>!
+📫 Per restare in contatto cercami su [LinkedIn](www.linkedin.com/in/pierpaolo-de-rosas)!
 
 
 
