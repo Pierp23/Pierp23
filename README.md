@@ -1,10 +1,10 @@
 ### Ciao, mi chiamo Pierpaolo De Rosas👋
 
 Fin da piccolo sono il tecnico e l’hacker di casa, ma questo amore per l’informatica e la tecnologia è sempre stato un hobby.
-Dopo un percorso di studi improntato sulle lingue,in particolare il cinese, ho scoperto la mia passioneper il mondo del product management. Questo mi ha portato a voler acquisire delle competenze tecniche di
+Dopo un percorso di studi improntato sulle lingue,in particolare il cinese, ho scoperto la mia passione per il mondo del product management. Questo mi ha portato a voler acquisire delle competenze tecniche di
 sviluppo che mi permettessero di ideare, creare e implementare un prodotto da zero.
 
-🌱 Attualmente sto approfondendo Javascript e Vue per il frontend, mentre PHP e Laravel per il backend. 
+🌱 Attualmente sto approfondendo PHP, Laravel e Filament. 
 <br>
 📫 Per restare in contatto cercami su <a href="www.linkedin.com/in/pierpaolo-de-rosas">LinkedIn</a>!
 
