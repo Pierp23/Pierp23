@@ -4,7 +4,9 @@ Fin da piccolo sono il tecnico e l’hacker di casa, ma questo amore per l’inf
 Dopo un percorso di studi improntato sulle lingue,in particolare il cinese, ho scoperto la mia passione per il mondo del product management. Questo mi ha portato a voler acquisire delle competenze tecniche di
 sviluppo che mi permettessero di ideare, creare e implementare un prodotto da zero.
 
-🌱 Attualmente sto approfondendo PHP, Laravel e Filament. 
+💼 Lavoro principalmente con PHP, Laravel e Filament.
+<br>
+🌱 Attualmente sto approfondendo Docker e Ionic.
 <br>
 📫 Per restare in contatto cercami su LinkedIn: www.linkedin.com/in/pierpaolo-de-rosas !
 
@@ -16,13 +18,16 @@ sviluppo che mi permettessero di ideare, creare e implementare un prodotto da ze
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="40" height="40"/>
+    
   <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain-wordmark.svg" alt="git" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain-wordmark.svg" alt="postman" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-plain-wordmark.svg" alt="postman" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" alt="docker" width="40" height="40"/>
 </p>
 
 
