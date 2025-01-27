@@ -6,7 +6,7 @@ sviluppo che mi permettessero di ideare, creare e implementare un prodotto da ze
 
 💼 Lavoro principalmente con PHP, Laravel e Filament.
 <br>
-🌱 Attualmente sto approfondendo Docker e Ionic.
+🌱 Attualmente sto approfondendo Swift and Java.
 <br>
 📫 Per restare in contatto cercami su LinkedIn: www.linkedin.com/in/pierpaolo-de-rosas !
 
@@ -20,6 +20,8 @@ sviluppo che mi permettessero di ideare, creare e implementare un prodotto da ze
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original-wordmark.svg" alt="ionic" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
     
   <br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
